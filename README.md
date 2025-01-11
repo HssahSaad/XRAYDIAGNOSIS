@@ -1,6 +1,6 @@
 # XRAYDIAGNOSIS Project
 
-![Project Logo](path/to/logo.png)
+![Project Logo](https://github.com/HssahSaad/XRAYDIAGNOSIS/blob/main/WhatsApp%20Image%202024-03-12%20at%2002.46.28_585b0881.jpg)
 
 Welcome to the *XRAYDIAGNOSIS* project repository! This repository contains all the details about the project, including its purpose, implementation, and outcomes.
 
